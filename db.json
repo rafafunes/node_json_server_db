@@ -1,0 +1,79 @@
+{
+  "profesores": [
+    {
+      "nombre": "Rafael",
+      "apellidos": "Funes",
+      "materias": [
+        {
+          "nombre": "Programación"
+        },
+        {
+          "nombre": "Base de datos"
+        },
+        {
+          "nombre": "Redes"
+        }
+      ],
+      "id": "f6af"
+    },
+    {
+      "id": "ba19",
+      "nombre": "Juan",
+      "apellidos": "Planas",
+      "materias": [
+        {
+          "nombre": "Matemática"
+        },
+        {
+          "nombre": "Biología"
+        },
+        {
+          "nombre": "Física"
+        },
+        {
+          "nombre": "Economía"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Rafael",
+      "apellidos": "Funes",
+      "promedios": 8.2,
+      "id": "4eb7"
+    },
+    {
+      "nombre": "Rafael",
+      "apellidos": "Funes",
+      "promedios": 10,
+      "id": "b3bf"
+    },
+    {
+      "id": "dc0a",
+      "nombre": "George",
+      "apellidos": "Orwell",
+      "promedios": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Programación con NodeJS",
+      "duracion": 10,
+      "dificultad": "Baja",
+      "id": "c7d3"
+    },
+    {
+      "nombre": "Base de datos con SQL",
+      "duracion": 10,
+      "dificultad": "Media",
+      "id": "2010"
+    },
+    {
+      "nombre": "Redes con NodeJS",
+      "duracion": 10,
+      "dificultad": "Alta",
+      "id": "cb02"
+    }
+  ]
+}
